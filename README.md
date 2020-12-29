@@ -57,3 +57,4 @@ berikut image target dari game minizoo ini.
 * [IntroController](https://github.com/AdmajaRois/minizoo-uas-rois/blob/main/Assets/Scripts/IntroController.cs)
 
 ## Vidio Demo
+* [Demo Minizoo](https://youtu.be/uNPG5YwnOy4)
